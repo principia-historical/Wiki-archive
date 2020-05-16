@@ -680,7 +680,7 @@ This can also be written as,
 ```lua
 function init()
 	Sprites = {}
-	Sprites{{0,0,2,0.3}, {4,0,1,1}, {2,5,10,0.5})}
+	Sprites { {0,0,2,0.3}, {4,0,1,1}, {2,5,10,0.5} }
 end
 ```
 
