@@ -12,7 +12,7 @@ Principia is the spiritual successor of Bithacks previous puzzle-game, Apparatus
 - [User Interface](User_Interface) - How to use the Sandbox editor
 - [Example Levels](Example_Levels) - Example Levels
 - [Objects](Objects) - List of all objects in the game
-- [Learning the Basics of lua scripting with Principia](Learning_the_Basics_of_lua_scripting_with_Principia)
+- [Learning the Basics of lua scripting with Principia](Learning_The_Basics_Of_Lua_Scripting_with_Principia)
 - [Level Properties](Level_Properties) - Border size, gravity, backgrounds, etc
 - [Assemblies](Assemblies) - Ready-to-use grouped/connected objects
 
