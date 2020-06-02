@@ -3,7 +3,7 @@ In this tutorial you will learn how to create a simple adventure boss.
 
 You will find an example level of a boss fight with similiar mechanics at the bottom of this page.
 
-For more advanced boss mechanics, see [this](Creating_a_Transforming_Adventure_Boss) tutorial.
+For more advanced boss mechanics, see [this](Creating_A_Transforming_Adventure_Boss) tutorial.
 
 If this is your first time using the sandbox, it's recommended that you take a look at the [Vehicle beginner tutorials](Tutorials) first.
 
@@ -116,7 +116,7 @@ And for the **FX emitter** with an explosion effect you can add a **Y-splitter**
 ![](http://i.imgur.com/pmwyzqP.png)
 
 For a simple HP display, you can add a **Grapher** somewhere on the boss and add a **receiver** from the condenser used for HP calculation.
-For more advanced HP displays, see [this tutorial](Creating_a_Transforming_Adventure_Boss)
+For more advanced HP displays, see [this tutorial](Creating_A_Transforming_Adventure_Boss)
 
 ![](http://i.imgur.com/FLVulei.png)
 

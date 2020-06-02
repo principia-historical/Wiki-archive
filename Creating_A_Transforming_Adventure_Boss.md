@@ -40,7 +40,7 @@ To make the boss start hovering over the player after the legs have been destroy
 * **Object finder** - To find the player's angle and hover towards it
 * **Stabilizer**
 
-For a more detailed tutorial for basic hovering, see [this hovercraft tutorial](Building_a_Hovercraft).
+For a more detailed tutorial for basic hovering, see [this hovercraft tutorial](Building_A_Hovercraft).
 
 ![](http://i.imgur.com/i8o0d54.png)
 

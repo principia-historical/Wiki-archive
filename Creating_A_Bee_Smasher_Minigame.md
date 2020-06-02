@@ -46,6 +46,7 @@ Make sure to leave some space for a **Cursor field** object. This object will be
 Click the configuration button for the **Cursor field** and adjust the size of the field to cover the whole bee.
 
 For maximum sized field, use these values:
+
 ![](http://i.imgur.com/2zpPBL1.png)
 
 Now click the Visibility Mode button so that we can attach the necessary objects under the bee.

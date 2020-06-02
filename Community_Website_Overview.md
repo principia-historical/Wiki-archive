@@ -23,4 +23,4 @@ To get your level featured, simply create an amazing level and the Bithack team 
 ## Videos
 The video section allows you to send in Principia videos and show them to the community. First you need to upload your video to YouTube, and then you can add it to the Principia video section.
 
-To learn how to record a video of Principia, visit [this page](http://wiki.principiagame.com/wiki/Video_Recording).
+To learn how to record a video of Principia, visit [this page](Video_Recording).
