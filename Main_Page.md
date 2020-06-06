@@ -23,11 +23,10 @@ Principia is the spiritual successor of Bithacks previous puzzle-game, Apparatus
 
 ## Support
 - [Principia fails to start](Principia_Fails_To_Start)
-- [Bug Reporting](Bug_Reporting)Bug Reporting - How to report bugs to admin
+- [Bug Reporting](Bug_Reporting) How to report bugs to admin
 - [Principia version history](Principia_Version_History) and changelogs (changes before 1.1.2 currently unavailable)
 
 ## Misc. Unlinked pages
 - [Adventure Tutorial](Adventure_Tutorial)
 - [Bad Graphics](Bad_Graphics)
-- [LuaScript](LuaScript)
 - [Repair Station](Repair_Station)

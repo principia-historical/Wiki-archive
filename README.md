@@ -8,10 +8,10 @@ The content is provided in its original state, with inaccuracies and outdated co
 ## TODOs
 - [X] ~~Archive images.~~ Done. All images have been archived and link to this archive. [Imgur images have been archived](https://archive.org/details/images.7z_202003), but will be linked to Imgur until they go down.
 - [ ] Some more format tweaks perhaps?
-- [ ] Object pages, atm only LuaScript is done.
-	- [ ] Objects list page.
+- [X] Object pages, atm only LuaScript is done.
+	- [X] Objects list page.
 - [ ] Recover linked community levels.
-	- Currently, only 41% of the linked community levels exist in the community level archive. This is most likely even lower as this doesn't take into account levels on object pages.
+	- Only 40% of the linked community levels exist in the current community level archive.
 - [ ] Archive non-Bithack videos for preservation.
 
 ## Sources
