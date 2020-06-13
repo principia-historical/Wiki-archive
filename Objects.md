@@ -50,7 +50,7 @@ These are the basic objects of the game.
 * [Land mine](Objects/Land-mine)
 
 ## Electronics
-* [Battery (3V)](Objects/Battery)
+* [Battery (3V)](Objects/Battery-3V)
 * [Power Supply](Objects/Power-Supply)
 * [Simple Motor](Objects/Simple-Motor)
 * [Power Cable](Objects/Power-Cable)
@@ -70,7 +70,7 @@ These are the basic objects of the game.
 ## Robotics
 * [DC Motor](Objects/DC-Motor)
 * [Servo Motor](Objects/Servo-Motor)
-* [Linear Motor](Objects/Linear-Moto)
+* [Linear Motor](Objects/Linear-Motor)
 * [Linear Servo](Objects/Linear-Servo)
 * [CT Mini](Objects/CT-Mini)
 * [CT Servo](Objects/CT-Servo)
@@ -148,7 +148,7 @@ These are the basic objects of the game.
 * [sincos](Objects/sincos)
 * [atan2](Objects/atan2)
 * [Switch](Objects/Switch)
-* [Digital display (Passive display)](Objects/Passive-display)
+* [Digital display (Passive display)](Objects/Digital-display)
 * Active display
 * [Debugger](Objects/Debugger)
 * [Grapher](Objects/Grapher)
@@ -193,7 +193,7 @@ These are the basic objects of the game.
 * [Cam Targeter](Objects/Cam-Targeter)
 * [Cam Zoomer](Objects/Cam-Zoomer)
 * [RC Activator](Objects/RC-Activator)
-* [Player Activator](Objects/Player-Activator)
+* Player Activator
 * [Interactive Cylinder](Objects/Interactive-Cylinder)
 * [Interactive Box](Objects/Interactive-Box)
 * [Interactive Ball](Objects/Interactive-Ball)
