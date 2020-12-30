@@ -1,5 +1,5 @@
 # Emitting and absorbing objects
-![](http://i.imgur.com/KgG0ecw.png)
+![](https://i.imgur.com/KgG0ecw.png)
 
 In this tutorial you will learn how different emitters and absorbers work and how they can be used.
 

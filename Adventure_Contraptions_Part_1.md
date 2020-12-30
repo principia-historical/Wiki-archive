@@ -25,7 +25,7 @@ Now add a **button** somewhere and drag a cable to the **CT Servo** (IN1 socket)
 
 Now when the player presses the button by shooting or touching it the door should open.
 
-![](http://i.imgur.com/EvW8tlX.png)
+![](https://i.imgur.com/EvW8tlX.png)
 
 ### Door opened by object
 This door is closed until the player uses the builder tool to place an object of specific type over an object field (see door example 2)
@@ -45,7 +45,7 @@ Now add an **object field** somewhere. Click it and use the crosshair button to 
 
 Add an **item**, found under "Game" in the inventory panel, then click its configuration button and choose builder. That's an object the player must pick up before he can move the box.
 
-![](http://i.imgur.com/aswC6nI.png)
+![](https://i.imgur.com/aswC6nI.png)
 
 ## Traps
 
@@ -65,9 +65,9 @@ Add a **Linear Motor**, increase its size, flip it over and attach it to a platf
 
 Attach an **object field** to the platform and point it downwards, adjust the length to cover the whole trap and the sensor height all the way down to the ground as shown on the screenshot, then connect it to the **CT Mini** (IN2 ~reverse socket). Add 2x maximum sized **Pixels** on layer 2 in front of the trap to cover it. Then one maximum sized **pixel** for each layer below the trap, the one under the trap should be colored red as a warning (layer 1 in this case).
 
-![](http://i.imgur.com/g5kzWRw.png)
+![](https://i.imgur.com/g5kzWRw.png)
 
-![](http://i.imgur.com/Ag2VMUq.png)
+![](https://i.imgur.com/Ag2VMUq.png)
 
 ### Laser trap
 The player must jump between platforms on different layers or he will be killed by laser (see trap example 2).
@@ -80,7 +80,7 @@ Attach **lasers** on the platforms, pointing sideways toward other platforms. Th
 
 Add smaller platforms above the laser beams, one for each layer. The player must jump on these to get past the trap.
 
-![](http://i.imgur.com/b2TVuIc.png)
+![](https://i.imgur.com/b2TVuIc.png)
 
 ### Disappearing pixel trap
 Certain pixel objects disappears if the player walks or jumps over them (see trap example 3).
@@ -97,7 +97,7 @@ Attach the **mini transmitters** to the **ID fields** and the trap should work.
 
 If you want this to be a deadly trap you can put **spikes** under it (see screenshot).
 
-![](http://i.imgur.com/edTFwdC.png)
+![](https://i.imgur.com/edTFwdC.png)
 
 ### Shooting trap inactivated by laser beam
 This trap shoot land mines until it's inactivated by a controlled laser beam. (see trap example 4)
@@ -126,11 +126,11 @@ Now place a **laser bouncer** and a **laser sensor** somewhere. The laser beam f
 
 Now connect the **laser sensor** to an **inverter**. The **inverter** is then connected to the **mini emitters** so that they shoot by default and are inactivated when the **laser sensor** detects a laser beam, but since the **inverter** only have one output socket and we're using two **mini emitters** we will have to first connect it to a **Y-splitter**. An **y-splitter** is an object that forwards the value from its input port to both its output ports.
 
-![](http://i.imgur.com/5y64iWY.png)
+![](https://i.imgur.com/5y64iWY.png)
 
 Note: when you click the Servo Motor make sure the little square is aligned together with the attached laser and the round button.
 
-![](http://i.imgur.com/ODTpCwl.png)
+![](https://i.imgur.com/ODTpCwl.png)
 
 ### Conveyor trap
 A simple trap that tries to move the player into a spikey wall (see trap example 5)
@@ -142,7 +142,7 @@ Objects used:
 
 Add the **conveyor** between platforms, rotate it a bit, adjust its size and adjust the speed so that it forces the player to move quickly. Build a wall of spikes as shown on the screenshot. Attach a jumper to the conveyor and it should work. A jumper is plugged into a signal socket to set the signal to a constant value. You can click the configuration button to change the value of a jumper (not needed for this example).
 
-![](http://i.imgur.com/nRbSaXP.png)
+![](https://i.imgur.com/nRbSaXP.png)
 
 ### Fan/spike trap
 This trap forces the player to use the builder tool to avoid getting thrown into the roof of spikes from when trying to get past the fan system (see trap example 6).
@@ -157,7 +157,7 @@ Objects used:
 
 Build a frame of platforms as shown on the screenshot. Add some boxes and a builder somewhere (configure an **Item** object). Add a **Power Supply**, adjust the voltage to maximum and connect it to a bunch of fans that points toward a roof with **Spikes**. The fans will fling the player into the air so he can get up on the next platform but it should be built so that it's impossible to get past without first attaching the boxes under the spikes using the builder tool.
 
-![](http://i.imgur.com/5RQhWCh.png)
+![](https://i.imgur.com/5RQhWCh.png)
 
 ## Part 2
 For more examples of contraptions that you can use in your adventure level, see part 2 of this tutorial:
