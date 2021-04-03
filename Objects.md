@@ -78,7 +78,7 @@ These are the basic objects of the game.
 * [RC Micro](Objects/RC-Micro)
 * [RC Basic](Objects/RC-Basic)
 * [RC IO-3](Objects/RC-IO-3)
-* [RC MONSTRO](Objects/RC-MONSTRO)
+* RC MONSTRO
 * [Laser](Objects/Laser)
 * [Laser bouncer](Objects/Laser-bouncer)
 * [Laser sensor](Objects/Laser-sensor)
@@ -231,7 +231,7 @@ These are the basic objects of the game.
 * Oil Mixer
 * Repair Station
 * Crane
-* [Suction Cup](Objects/Suction-Cup)
+* [Suction Cup](Objects/Suction-cup)
 * Resource
 * Plant
 * State Saver
