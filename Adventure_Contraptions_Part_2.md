@@ -1,8 +1,8 @@
 # Adventure Contraptions, Part 2: Elevators, moving platforms, laser puzzle and more
 In this part of the adventure tutorial you will learn how to create an elevator, moving platforms, laser puzzle and more.
 
-## Example level with all contraptions included
-http://principiagame.com/level/6025
+## [Example level with all contraptions included](http://archive.principiagame.com/level/6025)
+
 
 ![](https://i.imgur.com/wf8JAHv.png)
 

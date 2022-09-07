@@ -56,7 +56,7 @@ The first object we will add is a **Thruster**. This is a small rocket that will
 
 Now add a **Proximity sensor** at the front of the bee. This object will sense when the bee is about to hit a wall or another bee, then a signal will be sent to an **Auto Absorber** which will remove the bee. This is to prevent having too many bees up on the screen at the same time. Add the **Auto Absorber** under the proximity sensor but don't connect them yet.
 
-Adjust the Proximity sensor's Lenght slider to about 3.00 and the range to 0.30 
+Adjust the Proximity sensor's Lenght slider to about 3.00 and the range to 0.30
 
 ![](https://i.imgur.com/uW01eCN.png)
 
@@ -139,5 +139,4 @@ Finally, you can now adjust and fine tune the Stabilizer, Thrusters and Emit Int
 
 The mini game is now finished! Feel free to make any improvements and if you're happy with it, publish it to let others try it out!
 
-## Example Level
-http://principiagame.com/level/6389
+## [Example Level](http://archive.principiagame.com/level/6389)

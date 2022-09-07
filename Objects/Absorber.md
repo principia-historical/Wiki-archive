@@ -13,4 +13,4 @@ Ball, metal ball, cylinder, interactive cylinder, interactive box, interactive b
 ### Tutorials
 "Basic Parts Tutorrial#5: Emitters/Absorbers"
 
-http://principiagame.com/level/776
+http://archive.principiagame.com/level/776

@@ -20,8 +20,8 @@ If one of the Buttons is pressed, the motor will activate, if the second one is 
 ### Tutorials
 "Basic Parts Tutorial #2: NAND/XOR Gates"
 
-http://principiagame.com/level/743 -zardOz
+http://archive.principiagame.com/level/743 -zardOz
 
 "OR, XOR examples"
 
-http://principiagame.com/level/798
+http://archive.principiagame.com/level/798

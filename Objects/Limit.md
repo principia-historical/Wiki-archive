@@ -8,4 +8,4 @@ Advanced help:
 Binary device. Since this is a binary device, the input value is rounded so any value above 0.5 is equal to 1.
 
 ## User Information
-Example: http://principiagame.com/level/2217
+Example: http://archive.principiagame.com/level/2217

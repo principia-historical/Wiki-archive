@@ -6,4 +6,4 @@ Emit an exported object. Objects can be exported from the multi-select mode in t
 ### Tutorials
 "Basic Parts Tutorial #5: Emitters/Absorbers"
 
-http://principiagame.com/level/776
+http://archive.principiagame.com/level/776

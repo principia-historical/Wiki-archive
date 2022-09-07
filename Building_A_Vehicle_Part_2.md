@@ -1,7 +1,7 @@
 # Building a Vehicle, Part 2: Adding brakes using a Linear Motor
 In this tutorial we will upgrade our vehicle to add a brake using a Linear Motor.
 
-Lets begin by opening up our vehicle from Part 1 of this tutorial. If you didn't save yours, you can use [this](http://principiagame.com/level/5356) example level. You can also find the finished example level for this part of the tutorial at the bottom of the page.
+Lets begin by opening up our vehicle from Part 1 of this tutorial. If you didn't save yours, you can use [this](http://archive.principiagame.com/level/5356) example level. You can also find the finished example level for this part of the tutorial at the bottom of the page.
 
 ## Adding brakes to the vehicle
 First lets increase the length of our vehicle a bit so we have more room for new objects. We can do this by adding another **plank** to the base of the vehicle. First detach the left **wheel** and **DC motor**. Then use quickadd ('space' button on the PC version) to add a new **plank** and attach it beside the other plank. Reduce the size of it a bit using the slider (see screenshot).
@@ -45,8 +45,7 @@ Then double click the **RC Basic** to drag a signal cable to the **CT Mini**, ch
 
 The part 2 of this vehicle is now finished! Click play and then activate the RC to try it out.
 
-## Example Level
-http://principiagame.com/level/5383
+## [Example Level](http://archive.principiagame.com/level/5383)
 
 ## Part 3
 In part 3 of this tutorial you will learn how to build a cannon for your vehicle.

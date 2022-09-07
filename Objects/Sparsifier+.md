@@ -12,4 +12,4 @@ Use this gate to do, for example, nothing. :(
 ### Tutorials
 "Toggler using Sparsifiers example"
 
-http://principiagame.com/level/791 -Alfajim
+http://archive.principiagame.com/level/791 -Alfajim

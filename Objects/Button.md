@@ -6,4 +6,4 @@ You can use a Sparsifier device to convert the button click to a single "tick".
 Also see the Toggle Button.
 
 ## User Information
-Example level: http://principiagame.com/level/2192
+Example level: http://archive.principiagame.com/level/2192

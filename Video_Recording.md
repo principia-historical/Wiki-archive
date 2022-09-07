@@ -37,6 +37,6 @@ Now just click *Start Recording* and the video will be saved to the file path yo
 ![](https://i.imgur.com/K1sYMnR.png)
 
 ## Sharing your Video on the Website
-If you want to add your video under the [Videos section](http://principiagame.com/videos) of the principia website, upload the video to youtube and then click [Add Video](http://principiagame.com/add-video) and follow the instructions on that page.
+If you want to add your video under the [Videos section](http://archive.principiagame.com/videos) of the principia website, upload the video to youtube and then click [Add Video](http://archive.principiagame.com/add-video) and follow the instructions on that page.
 
 If you have any questions you can post them on the [forum](http://bithack.com/forum/).

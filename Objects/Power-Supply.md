@@ -6,12 +6,12 @@ Voltage and current regulating power supply. Constant output between 1.5 V and 2
 ### Tutorials
 "Example: Simple Motor & Power" (forward/reverse car)
 
-http://principiagame.com/level/713
+http://archive.principiagame.com/level/713
 
 "Basic Parts Tutorial #4: Power Supply/Y-splitter"
 
-http://principiagame.com/level/759 -zardOz
+http://archive.principiagame.com/level/759 -zardOz
 
 "EC Resistor"
 
-http://principiagame.com/level/579 -Woodnut
+http://archive.principiagame.com/level/579 -Woodnut

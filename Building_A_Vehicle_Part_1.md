@@ -37,7 +37,7 @@ Here we can add widgets and buttons to control our vehicle which will appear on 
 Congrats! You have now built a working vehicle. Click the play button (or 'P') to test it. Adjust the speed with the bar we added to the left and hold F to put it in reverse mode.
 
 ## Example level
-http://principiagame.com/level/5356
+http://archive.principiagame.com/level/5356
 
 ## Part 2
 In the next part of this tutorial you will learn how to add brakes to your vehicle using a Linear Motor

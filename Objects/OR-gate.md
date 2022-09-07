@@ -31,8 +31,8 @@ See the object description for the [[Signal Cable]] for the basics of signaling 
 ### Tutorials
 "Basic Parts Tutorial #1: AND/OR Gates"
 
-http://principiagame.com/level/715 -zardOz
+http://archive.principiagame.com/level/715 -zardOz
 
 "OR, XOR examples"
 
-http://principiagame.com/level/798 -Alfajim
+http://archive.principiagame.com/level/798 -Alfajim

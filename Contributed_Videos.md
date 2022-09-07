@@ -1,5 +1,5 @@
 # Contributed Videos
-*principiagame.com now has a [video section](http://principiagame.com/videos) for contributed videos by the community. Go there for more videos!*
+*principiagame.com now has a [video section](http://archive.principiagame.com/videos) for contributed videos by the community. Go there for more videos!*
 
 If you want to learn how to record and share a video of principia to the community, visit [this page](Video_Recording).
 

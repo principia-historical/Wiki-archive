@@ -51,4 +51,4 @@ See the object description of the [[Signal Cable]] for the basics of signaling i
 ### Tutorials
 "Toggler using Sparsifiers example"
 
-http://principiagame.com/level/791 -Alfajim
+http://archive.principiagame.com/level/791 -Alfajim

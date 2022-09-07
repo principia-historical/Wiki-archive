@@ -8,4 +8,4 @@ The auto absorber will follow all connections it can find and absorb everything 
 ### Tutorials
 "Basic Parts Tutorial #5: Emitters/Absorbers"
 
-http://principiagame.com/level/776
+http://archive.principiagame.com/level/776

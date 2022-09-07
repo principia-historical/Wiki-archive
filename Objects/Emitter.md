@@ -17,4 +17,4 @@ Objects that can be emitted: Ball, metal ball, cylinder, interactive cylinder, i
 ### Tutorials
 "Basic Parts Tutorial #5: Emitters/Absorbers"
 
-http://principiagame.com/level/776
+http://archive.principiagame.com/level/776

@@ -1,2 +1,2 @@
 # Construction Tutorials
-[Three Languages Giant Tutorial](http://principiagame.com/level/1661)
+[Three Languages Giant Tutorial](http://archive.principiagame.com/level/1661)

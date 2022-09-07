@@ -12,7 +12,7 @@ The input IN1 is binary, its value is rounded so any value above 0.5 is equal to
 ## User Information
 If the binary value of In1 is 1.0, output the unmodified value of In0 to Out1, otherwise output the unmodified value of In0 to Out0. (See [[IF gate]])
 
-Example from http://principiagame.com/level/1331,
+Example from http://archive.principiagame.com/level/1331,
 
 We have a simple car and want a button which will override the forward wheel power slider and send it to the rear wheel reverse,
 
@@ -36,4 +36,4 @@ Now the Lua is identical to an IF-else gate.
 See the object description for the [[Signal Cable]] for the basics of signaling in Principia. -zardOz
 
 
-Example level: http://principiagame.com/level/2589 -Rasmusollie
+Example level: http://archive.principiagame.com/level/2589 -Rasmusollie

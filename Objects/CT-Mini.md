@@ -17,8 +17,8 @@ To drive a motor you will need 3 objects in total: The motor, a controller (CT),
 ### Tutorials
 "Motor test"
 
-http://principiagame.com/level/313 -Pajleda
+http://archive.principiagame.com/level/313 -Pajleda
 
 "Basic Parts Tutorial #3: Linear Motor/CT Mini
 
-http://principiagame.com/level/753 -zardOz
+http://archive.principiagame.com/level/753 -zardOz

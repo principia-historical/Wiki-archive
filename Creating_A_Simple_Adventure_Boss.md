@@ -40,7 +40,7 @@ Now we will make the boss move towards and follow the player robot but keep a sm
 * **cmp-l** x2
 * **Y-splitter**
 
-Add these objects, then connect the **sincos** from OUT1 (positive X angle) to the **Max** object, and connect OUT3 (negative X angle) to the **Y-splitter**, then from the **Y-splitter** to a **Ceil** and the other input on the **Max**, as shown on the screenshot. 
+Add these objects, then connect the **sincos** from OUT1 (positive X angle) to the **Max** object, and connect OUT3 (negative X angle) to the **Y-splitter**, then from the **Y-splitter** to a **Ceil** and the other input on the **Max**, as shown on the screenshot.
 
 ![](https://i.imgur.com/s2rGAkp.png)
 
@@ -48,7 +48,7 @@ This setup is enough to make the boss follow the player if you connect **Max** t
 
 First, add a **Mini Transmitter** and add it to the **Object finder** on the boss. Just make sure the frequency is set to something different than what you used for the angle input. You can set it to 2. Also, lower the sensitivity of the **object finder** to about 0.10
 
-To find a good value for the distance you can connect the **object finder** to a **Grapher** if you want and then click play and walk the player robot toward the boss. 
+To find a good value for the distance you can connect the **object finder** to a **Grapher** if you want and then click play and walk the player robot toward the boss.
 
 ![](https://i.imgur.com/fIX4B7T.png)
 
@@ -129,8 +129,7 @@ Other objects that can be useful in levels like this:
 
 Below is an example of what you can do with a simple boss level.
 
-## Example level
-http://principiagame.com/level/7923
+## [Example level](http://archive.principiagame.com/level/7923)
 
 ## More Advanced Boss Mechanics
 [Creating a Transforming Adventure Boss](Creating_A_Transforming_Adventure_Boss)

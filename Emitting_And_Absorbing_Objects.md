@@ -3,10 +3,9 @@
 
 In this tutorial you will learn how different emitters and absorbers work and how they can be used.
 
-## Example levels
-http://principiagame.com/level/6308
+## [Example levels](http://archive.principiagame.com/level/6308)
 
-[Basic Parts Tutorial #5: Emitters/Absorbers by zardOz](http://principiagame.com/level/776)
+[Basic Parts Tutorial #5: Emitters/Absorbers by zardOz](http://archive.principiagame.com/level/776)
 
 ## Emitter
 The emitter will emit copies of a selected object. Use the slider to configure the minimum interval between two consecutive emits. Alternatively, you can wire IN0 to a Timer object for better control. If you use a timer, it is recommended to set the emitters own interval to as low as possible to avoid missing ticks from the timer.

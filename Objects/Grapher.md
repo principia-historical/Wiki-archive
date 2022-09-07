@@ -6,4 +6,4 @@ Forward IN0 to OUT0 and represent the value from IN0 on the display in graph for
 ### Tutorials
 "Toggler using sparsifiers example"
 
-http://principiagame.com/level/791 -Alfajim
+http://archive.principiagame.com/level/791 -Alfajim
