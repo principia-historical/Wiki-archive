@@ -94,7 +94,7 @@ The simpliest way is to connect the **condenser** used for the HP to a **Grapher
 ### Using Active Displays
 The HP bar we're using for the example level on this page is this one, it uses **Active Displays** lined up together to display the current boss health.
 
-Credits to *that guy* for this method http://archive.principiagame.com/level/4471 You can click edit to see how it's made or copy it with multi-select.
+Credits to *that guy* for this method https://archive.principia-web.se/level/4471 You can click edit to see how it's made or copy it with multi-select.
 
 ![](https://i.imgur.com/rrBSLIE.png)
 
@@ -113,4 +113,4 @@ You can place it somewhere on the side or on the boss if there is space.
 * **Event listener** can detect when the player dies and then recharge the boss HP for example.
 * **SFX Emitter** can be used for different sound effects.
 
-## [Example Level](http://archive.principiagame.com/level/7616)
+## [Example Level](https://archive.principia-web.se/level/7616)

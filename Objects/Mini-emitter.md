@@ -13,4 +13,4 @@ The mini emitter can also emit Interactive Box and the wooden Box, but only if t
 ### Tutorials
 %Basic Parts Tutorial #5: Emitters/Absorbers"
 
-http://archive.principiagame.com/level/776
+https://archive.principia-web.se/level/776

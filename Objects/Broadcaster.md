@@ -9,4 +9,4 @@ If multiple broadcasters broadcast over the same frequencies, what value a recei
 - **`IN1`**: Frequency shift.
 
 ## User Information
-Example level: http://archive.principiagame.com/level/3081
+Example level: https://archive.principia-web.se/level/3081

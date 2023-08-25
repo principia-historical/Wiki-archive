@@ -935,7 +935,7 @@ entity:set_target_id(target_id)
 ### entity:call()
 Added in **1.5**
 
-If the entity is a luascript object, call one of its functions.Example level: http://archive.principiagame.com/level/10140
+If the entity is a luascript object, call one of its functions.Example level: https://archive.principia-web.se/level/10140
 
 ```lua
 local x, y = entity:call("my_ultracool_function", a, b, c)

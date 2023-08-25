@@ -7,4 +7,4 @@ Advanced help:
 - **`OUT2`**: Cursor hovering above the field (not implemented yet)
 
 ## User Information
-Example level: http://archive.principiagame.com/level/2412
+Example level: https://archive.principia-web.se/level/2412

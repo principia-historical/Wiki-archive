@@ -12,16 +12,16 @@ Errors are reported through the interface if the motor is unable to move, unless
 ### Tutorials
 "2 way linear motor example"
 
-http://archive.principiagame.com/level/423
+https://archive.principia-web.se/level/423
 
 "robograbatron"
 
-http://archive.principiagame.com/level/778 -alfajim
+https://archive.principia-web.se/level/778 -alfajim
 
 "Basic Parts Tutorial #3: Linear Motor/CT Mini"
 
-http://archive.principiagame.com/level/753
+https://archive.principia-web.se/level/753
 
 "Basic Parts Tutorial # 6: Inverters +(Y-split, L-Motor)"
 
-http://archive.principiagame.com/level/790 -zardOz
+https://archive.principia-web.se/level/790 -zardOz

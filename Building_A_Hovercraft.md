@@ -60,4 +60,4 @@ Congrats! You have now built a working hovercraft.
 ![](https://i.imgur.com/tLL8MSJ.png)
 
 ## Example level
-http://archive.principiagame.com/level/6109
+https://archive.principia-web.se/level/6109

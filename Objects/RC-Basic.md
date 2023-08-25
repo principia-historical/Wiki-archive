@@ -22,4 +22,4 @@ Reports a value from 0 to 1 depending on the angular position of the knob. The r
 configuration screen.
 
 ## User Information
-Example: http://archive.principiagame.com/level/3357
+Example: https://archive.principia-web.se/level/3357

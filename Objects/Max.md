@@ -6,8 +6,8 @@ Output the unmodified biggest value of **`IN0`** or **`IN1`** to **`OUT0`**.
 ### Tutorials
 "Basic Parts Tutorial #8: MIN/MAX Gates"
 
-http://archive.principiagame.com/level/806
+https://archive.principia-web.se/level/806
 
 Example: max/min gates
 
-http://archive.principiagame.com/level/2193
+https://archive.principia-web.se/level/2193

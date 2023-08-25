@@ -20,12 +20,12 @@ See the object description of the [[Signal Cable]] for the basics of signaling i
 ### Tutorials
 "Y splitter tutorial"
 
-http://archive.principiagame.com/level/589 -ffjake
+https://archive.principia-web.se/level/589 -ffjake
 
 "Basic Parts Tutorial #4: Power Supply/Y-splitter"
 
-http://archive.principiagame.com/level/759 -zardOz
+https://archive.principia-web.se/level/759 -zardOz
 
 "Basic Parts Tutorial #6: Inverter +(Y-split, L-Motor)"
 
-http://archive.principiagame.com/level/790
+https://archive.principia-web.se/level/790

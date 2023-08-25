@@ -25,12 +25,12 @@ See the object description of the [[Signal Cable]] for the basics of signaling i
 ### Tutorials
 "Or, AND, XOR, NAND, Inverter"
 
-http://archive.principiagame.com/level/638 -mrsimb
+https://archive.principia-web.se/level/638 -mrsimb
 
 "Basic Parts Tutorial #6: Inverter +(Y-split, L-Motor)"
 
-http://archive.principiagame.com/level/790
+https://archive.principia-web.se/level/790
 
 "Basic Parts Tutorial #7: Transmitter/Receiver"
 
-http://archive.principiagame.com/level/792
+https://archive.principia-web.se/level/792

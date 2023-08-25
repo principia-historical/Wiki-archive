@@ -1,4 +1,6 @@
 # Main Page
+(This is an archive of the old Principia Wiki. You might want to look at the new Principia Wiki [available here](https://principia-web.se/wiki/) instead.)
+
 Principia (also known as Apparatus 2) is a physics-based sandbox building game created by Bithack AB, released for Android, Windows and iOS. Coming soon to Linux.
 
 Principia is the spiritual successor of Bithacks previous puzzle-game, Apparatus.

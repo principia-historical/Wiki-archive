@@ -6,4 +6,4 @@ Outputs 1 to **`OUT0`** if a laser with the correct wavelength hit the sensor.
 - **`OUT0`**: Laser status
 
 ## User Information
-Example level: http://archive.principiagame.com/level/2194
+Example level: https://archive.principia-web.se/level/2194

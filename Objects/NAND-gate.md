@@ -20,8 +20,8 @@ Both Buttons must be pressed to deactivate the Motor.
 ### Tutorials
 "Basic Parts Tutorial #2: NAND/XOR Gates"
 
-http://archive.principiagame.com/level/743 -zardOz
+https://archive.principia-web.se/level/743 -zardOz
 
 "AND, NAND examples"
 
-http://archive.principiagame.com/level/798 -Alfajim
+https://archive.principia-web.se/level/798 -Alfajim

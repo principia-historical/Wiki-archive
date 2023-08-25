@@ -2,4 +2,4 @@
 A deadly beam with spikes that damages any living entity. See spikebot for other examples.
 
 ## User Information
-Example level: http://archive.principiagame.com/level/2609
+Example level: https://archive.principia-web.se/level/2609

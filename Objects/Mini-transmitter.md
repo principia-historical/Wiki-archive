@@ -6,8 +6,8 @@ No description added for this object yet, sorry!
 ### Tutorials
 "robograbatron"
 
-http://archive.principiagame.com/level/778 -Alfajim
+https://archive.principia-web.se/level/778 -Alfajim
 
 "Basic Parts Tutorial #7: Transmitter/Receiver"
 
-http://archive.principiagame.com/level/792 -zardOz
+https://archive.principia-web.se/level/792 -zardOz

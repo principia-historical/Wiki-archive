@@ -139,4 +139,4 @@ Finally, you can now adjust and fine tune the Stabilizer, Thrusters and Emit Int
 
 The mini game is now finished! Feel free to make any improvements and if you're happy with it, publish it to let others try it out!
 
-## [Example Level](http://archive.principiagame.com/level/6389)
+## [Example Level](https://archive.principia-web.se/level/6389)
